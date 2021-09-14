@@ -205,7 +205,7 @@ namespace Problems__1_4
             //Problem 3.8
             /*
             int s,s1,s2;
-            bool ch1en = true;
+            bool ch = true;
             Console.Write("Введiть n1 = ");
             s = int.Parse(Console.ReadLine());
             Console.Write("Введiть n2 = ");
@@ -213,9 +213,9 @@ namespace Problems__1_4
             Console.Write("Введiть n3 = ");
             s2 = int.Parse(Console.ReadLine());
 
-            ch1en = (s + s1 == 0 ? true : false) || (s2 + s1 == 0 ? true : false) || (s + s2 == 0 ? true : false);
+            ch = (s + s1 == 0 ? true : false) || (s2 + s1 == 0 ? true : false) || (s + s2 == 0 ? true : false);
 
-            Console.WriteLine(ch1en);
+            Console.WriteLine(ch);
             Console.ReadLine();
             */
 
