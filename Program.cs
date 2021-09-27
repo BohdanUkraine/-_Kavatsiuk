@@ -195,7 +195,7 @@ namespace Problems__1_4
             s1 = int.Parse(Console.ReadLine());
             for (int i=s; i<=s1; i++)
             {
-                res = (Math.Pow(i, 2) - 3) / (Math.Pow(i, 2) - Math.Pow(-1, i) * i + 3);
+                res += (Math.Pow(i, 2) - 3) / (Math.Pow(i, 2) - Math.Pow(-1, i) * i + 3);
             }
             Console.WriteLine(String.Format("{0:0.00}", s));
             Console.ReadLine();
