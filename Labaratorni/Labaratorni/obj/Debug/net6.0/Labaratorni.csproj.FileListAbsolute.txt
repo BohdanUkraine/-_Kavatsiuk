@@ -1,0 +1,15 @@
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\bin\Debug\net6.0\Labaratorni.exe
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\bin\Debug\net6.0\Labaratorni.deps.json
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\bin\Debug\net6.0\Labaratorni.runtimeconfig.json
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\bin\Debug\net6.0\Labaratorni.dll
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\bin\Debug\net6.0\ref\Labaratorni.dll
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\bin\Debug\net6.0\Labaratorni.pdb
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\Labaratorni.csproj.AssemblyReference.cache
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\Labaratorni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\Labaratorni.AssemblyInfoInputs.cache
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\Labaratorni.AssemblyInfo.cs
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\Labaratorni.csproj.CoreCompileInputs.cache
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\Labaratorni.dll
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\ref\Labaratorni.dll
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\Labaratorni.pdb
+C:\Users\azaza\source\repos\Labaratorni\Labaratorni\obj\Debug\net6.0\Labaratorni.genruntimeconfig.cache
